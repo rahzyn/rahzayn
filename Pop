@@ -4,7 +4,7 @@
     border: 1px solid black;
     width: 400px;
     height: 500px;
-    background: url('https://files.catbox.moe/by0do4.jpg');
+    background: url('https://files.catbox.moe/anj3jr.jpg');
     color: white;
     border-radius: 20px;
     box-shadow: 0px 0px 20px rgba(0,0,0,0.75);
