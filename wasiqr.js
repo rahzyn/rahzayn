@@ -60,22 +60,27 @@ router.get('/', async (req, res) => {
 	
 				   let TREX_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-𝐈𝐓𝐒 TIMNASA TMD 𝐁𝐎𝐓 
+𝐈𝐓𝐒 😘RAHZAYN-MD😘 𝐁𝐎𝐓 
+
 𝐘𝐎𝐔 𝐀𝐑𝐄 𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃
-> 𝐃𝐄𝐕 TIMNASA
+
+> 𝐃𝐄𝐕 ɾɑɦʑɑџɲ🥰
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-TIMNASA TECH PROJECT
+𝓡𝓪𝓱𝔃𝓪𝔂𝓷-𝓜𝓭❤ PROJECT
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐏𝐀𝐆𝐄 = https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31
+
+𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐏𝐀𝐆𝐄 = https://whatsapp.com/channel/0029VatokI45EjxufALmY32X
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐌𝐄 𝐕𝐈𝐀
-𝐌𝐘 𝐋𝐈𝐍𝐊?https://wa.me/255784766591?
+𝐌𝐘 𝐋𝐈𝐍𝐊?https://wa.me/255712634607?
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*TIMNASA TECH*
+
+*😘RAHZAYN-MD😘*
 _____________________________________
 	
-_DONT FORGET TO FORK AND STAR MY REPO_`
+_DONT FORGET TO FORK AND STAR MY REPO😜_`
 	 await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id,{text:WASI_MD_TEXT},{quoted:session})
 
 
